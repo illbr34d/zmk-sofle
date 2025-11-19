@@ -222,7 +222,7 @@ layers:
   - HOME
   - {t: '-', s: _}
   - {t: '=', s: +}
-  - '&RGB_BRD'
+  - RGB BRD
   - '~'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -235,7 +235,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - '&RGB_BRI'
+  - RGB BRI
   - RGB OFF
   - RGB ON
   - RGB EFF
@@ -249,10 +249,10 @@ layers:
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
-  - '&RGB_HUI'
-  - '&RGB_HUD'
-  - '&RGB_SAI'
-  - '&RGB_SAD'
+  - RGB HUI
+  - RGB HUD
+  - RGB SAI
+  - RGB SAD
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
   - {t: LAYER2, h: toggle}
